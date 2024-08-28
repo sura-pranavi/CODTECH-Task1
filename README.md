@@ -22,11 +22,15 @@
 
 Design and implement a Finite State Machine (FSM) that can model and control a specific system or process, such as:
 
-A vending machine
-A traffic light controller
-A digital clock
-A robotic arm
-Key Activities:
+   A vending machine
+
+   A traffic light controller
+
+   A digital clock
+
+   A robotic arm
+
+**Key Activities:**
 
 Requirements gathering: Define project scope, goals, and deliverables.
 
@@ -56,21 +60,30 @@ Technologies Used:
 
 **Programming languages:**
 
-C
-C++
-Python
-Java
-MATLAB
+     C
+     
+     C++
+
+     Python
+     
+     Java
+     
+     MATLAB
 
 **Hardware description languages:**
 
-VHDL (VHSIC-HDL)
-Verilog
-SystemC
+     VHDL (VHSIC-HDL)
+     
+     Verilog
+     
+     SystemC
 
 **Simulation tools:**
 
-ModelSim
-QuestaSim
-Vivado Simulator
-Simulink
+     ModelSim
+
+     QuestaSim
+     
+     Vivado Simulator
+     
+     Simulink
