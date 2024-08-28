@@ -18,9 +18,9 @@
 
 **Project** : FINITE STATE MACHINE (FSM) DESIGN
 
-    ![image](https://github.com/user-attachments/assets/1f8f4bc2-584e-41e2-bf51-715289655886)
+![image](https://github.com/user-attachments/assets/1f8f4bc2-584e-41e2-bf51-715289655886)
 
-    ![image](https://github.com/user-attachments/assets/689be298-7e08-4633-9c9c-31a809008788)
+![image](https://github.com/user-attachments/assets/689be298-7e08-4633-9c9c-31a809008788)
 
 
 **Objective:**
